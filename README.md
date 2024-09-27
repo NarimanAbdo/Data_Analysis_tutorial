@@ -16,9 +16,9 @@
 14. [LearnMode](https://lnkd.in/gQYCkwS2) – Learn SQL at your own pace.
 
 SQL-- youtube channel to learn
-https://www.youtube.com/@techTFQ/courses
-https://youtube.com/@wiseowltutorials?si=ALioRxvwEoMP4lbK
-https://www.youtube.com/@AlexTheAnalyst/courses
+1. https://www.youtube.com/@techTFQ/courses
+2. https://youtube.com/@wiseowltutorials?si=ALioRxvwEoMP4lbK
+3. https://www.youtube.com/@AlexTheAnalyst/courses
 
 
 
