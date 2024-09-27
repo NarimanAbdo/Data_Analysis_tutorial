@@ -15,6 +15,12 @@
 13. [Interview Query](https://lnkd.in/gKH3xw_G) – SQL interview insights.
 14. [LearnMode](https://lnkd.in/gQYCkwS2) – Learn SQL at your own pace.
 
+SQL-- youtube channel to learn
+https://www.youtube.com/@techTFQ/courses
+https://youtube.com/@wiseowltutorials?si=ALioRxvwEoMP4lbK
+https://www.youtube.com/@AlexTheAnalyst/courses
+
+
 
 
 
