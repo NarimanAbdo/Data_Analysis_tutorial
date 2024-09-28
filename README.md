@@ -6,16 +6,19 @@ Data warehouse:
 2. Youtube: https://www.youtube.com/playlist?list=PLrbIyvYCdg0iAUQoxG5vI_yKqzZ2AcgGe
 3. https://www.youtube.com/@ahmedelsayed8467
 4. https://www.youtube.com/watch?v=Yv1Ic0rPXN0
-5. Data Warehouse Complete Tutorial - SQL + SSIS + SSAS + Power BI: https://www.youtube.com/watch?v=eNxbMwUGl1g
 
 ---
+SQL PDF: https://github.com/aelhelw/techvault/tree/main
+
+--
 SQL -- YouTube channel to learning-- 
 
 1. ITI Database (SQL Server) Arabic: https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t
-2. https://www.youtube.com/@techTFQ/courses
-3. https://youtube.com/@wiseowltutorials?si=ALioRxvwEoMP4lbK
-4. https://www.youtube.com/@AlexTheAnalyst/courses
-5. SQL Server Interview Questions and Answers: https://www.youtube.com/playlist?list=PL6n9fhu94yhXcztdLO7i6mdyaegC8CJwR
+2. https://www.youtube.com/@TechVault_/playlists
+3. https://www.youtube.com/@techTFQ/courses
+4. https://youtube.com/@wiseowltutorials?si=ALioRxvwEoMP4lbK
+5. https://www.youtube.com/@AlexTheAnalyst/courses
+6. SQL Server Interview Questions and Answers: https://www.youtube.com/playlist?list=PL6n9fhu94yhXcztdLO7i6mdyaegC8CJwR
    
 --
 📝 Top SQL Learning Platforms for Problem-solving:-
@@ -38,7 +41,11 @@ SQL -- YouTube channel to learning--
 
 -----------------
 Business Intelligence (BI) Career Roadmap: https://www.youtube.com/watch?v=v38syyZqzkw
-
+1. ITI M. Rami: https://www.youtube.com/playlist?list=PLSGEGD0dbMKpih5QzGQfwU86d8TB-O24a
+2. Data Warehouse Complete Tutorial - SQL + SSIS + SSAS + Power BI: https://www.youtube.com/watch?v=eNxbMwUGl1g
+3. Business Intelligence | SSIS | SSAS | Cubes | SSRS [Arabic] https://www.youtube.com/watch?v=372_pHR623s&t=1548s
+4. SSIS [Arabic] https://www.youtube.com/playlist?list=PLcAbhg_RWLaK-lCH5GxnaVfyeGjrm3QH8; https://www.youtube.com/playlist?list=PLzdFxbg1IOxMm84jftInXXDXwZKBZKS75
+8. SSIS https://www.youtube.com/playlist?list=PLNIs-AWhQzcmPg_uV2BZi_KRG4LKs6cRs
 ---
 Power BI: 
 1. https://www.youtube.com/@GuyInACube/playlists
