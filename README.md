@@ -1,9 +1,11 @@
-  .Data Analysis and BI Resources:  https://github.com/GeorgeHanyMilad/Data-Analysis-and-BI-Resources.
+  .Data Analysis and BI Resources (ITI resources):  https://github.com/GeorgeHanyMilad/Data-Analysis-and-BI-Resources.
   
   .AI/ML Driven Companies In Egypt: https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt.
   
-  .Data warehouse- Data engineering: https://www.youtube.com/watch?v=0nZ7a06s3Mk
-
+  Data warehouse:
+  1.https://www.youtube.com/playlist?list=PLrbIyvYCdg0iAUQoxG5vI_yKqzZ2AcgGe
+  2. Data engineering: https://www.youtube.com/watch?v=0nZ7a06s3Mk
+--
 📝 Top SQL Learning Platforms for Problem-solving:-
 1. [SQLZoo](https://sqlzoo.net/) – Interactive lessons for beginners.
 2. [HackerRank](https://lnkd.in/gnFS4frz) – Challenge your SQL knowledge with real-world problems.
@@ -19,15 +21,39 @@
 12. [Dataford](https://www.dataford.io/) – Hands-on SQL for data analysis.
 13. [Interview Query](https://lnkd.in/gKH3xw_G) – SQL interview insights.
 14. [LearnMode](https://lnkd.in/gQYCkwS2) – Learn SQL at your own pace.
+
 SQL-- YouTube channel to learn
-1. https://www.youtube.com/@techTFQ/courses
-2. https://youtube.com/@wiseowltutorials?si=ALioRxvwEoMP4lbK
-3. https://www.youtube.com/@AlexTheAnalyst/courses
+
+1. ITI Database (SQL Server) Arabic: https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t
+2. https://www.youtube.com/@techTFQ/courses
+3. https://youtube.com/@wiseowltutorials?si=ALioRxvwEoMP4lbK
+4. https://www.youtube.com/@AlexTheAnalyst/courses
+5. SQL Server Interview Questions and Answers: https://www.youtube.com/playlist?list=PL6n9fhu94yhXcztdLO7i6mdyaegC8CJwR
+6. 
 -----------------
-Power BI: 
-1. https://youtube.com/@curbalen?si=j0LziawC2ZOqMd3k
-2. https://youtube.com/@learnwidgiggs?si=0mTEuywNezH8ycYN
+Business Intelligence (BI) Career Roadmap: https://www.youtube.com/watch?v=v38syyZqzkw
 --
+Power BI: 
+  1.https://www.youtube.com/@GuyInACube/playlists
+  2. https://youtube.com/@curbalen?si=j0LziawC2ZOqMd3k
+  3. https://youtube.com/@learnwidgiggs?si=0mTEuywNezH8ycYN
+-- 
+DAX
+1. https://www.daxformatter.com
+2. https://dax.guide/
+ ---
+FREE DATASET BUILDING YOUR PORTFOLIO ⭐️
+1. Supermarket Sales - https://lnkd.in/e86UpCMv 
+2. Credit Card Fraud Detection - https://lnkd.in/eFTsZDCW 
+3. FIFA 22 complete player dataset - https://lnkd.in/eDScdUUM 
+4. Walmart Store Sales Forecasting - https://lnkd.in/eVT6h-CT 
+5. Netflix Movies and TV Shows - https://lnkd.in/eZ3cduwK 
+6.LinkedIn Data Analyst jobs listings -  https://lnkd.in/ezqxcmrE 
+7. Top 50 Fast-Food Chains in USA - https://lnkd.in/esBjf5u4 
+8. Amazon and Best Buy Electronics - https://lnkd.in/e4fBZvJ3 
+9. Forecasting Book Sales - https://lnkd.in/eXHN2XsQ 
+10. Real / Fake Job Posting Prediction - https://lnkd.in/e5SDDW9G
+---
 Cloud computing: 
 1. AWS: https://www.youtube.com/watch?v=E3nLSHQtLes&list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf
 2. MS Azure: https://www.youtube.com/watch?v=C-KJRwRqXK8&list=PLCIJjtzQPZJ-CDaKOAlm3JfpL2kddIhRA
