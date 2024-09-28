@@ -33,10 +33,9 @@ Cloud computing:
 2. MS Azure: https://www.youtube.com/watch?v=C-KJRwRqXK8&list=PLCIJjtzQPZJ-CDaKOAlm3JfpL2kddIhRA
 3. Azure Cloud Computing: https://www.youtube.com/watch?v=DeDiDgAlOnU&list=PLCIJjtzQPZJ-lhz8fL-OAI7Gun4B37xcs
 --
-Databricks Quick Course 2024
-https://www.youtube.com/playlist?list=PLfDCRTtObbI6YE7hr1sk0rddzIkbSq7kL
+4. Databricks Quick Course 2024: https://www.youtube.com/playlist?list=PLfDCRTtObbI6YE7hr1sk0rddzIkbSq7kL
 ---
-DB-spark: https://www.youtube.com/@GarageEducation/playlists
+5. DB-spark: https://www.youtube.com/@GarageEducation/playlists
 
 --------------------
 Big Data: 
