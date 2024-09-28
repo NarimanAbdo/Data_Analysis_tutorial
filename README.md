@@ -6,6 +6,7 @@ Data warehouse:
 2. Youtube: https://www.youtube.com/playlist?list=PLrbIyvYCdg0iAUQoxG5vI_yKqzZ2AcgGe
 3. https://www.youtube.com/@ahmedelsayed8467
 4. https://www.youtube.com/watch?v=Yv1Ic0rPXN0
+5. 
 
 ---
 SQL PDF: https://github.com/aelhelw/techvault/tree/main
@@ -52,6 +53,7 @@ Power BI:
 2. https://youtube.com/@curbalen?si=j0LziawC2ZOqMd3k
 3. https://youtube.com/@learnwidgiggs?si=0mTEuywNezH8ycYN
 4. Power BI Quick Tips: https://www.youtube.com/playlist?list=PLs93rgE5erT5Hu5XkzTk_ZEMdvB9yFaFH
+5. https://www.youtube.com/@PowerBIPro/playlists
   
   ---
 DAX
@@ -76,7 +78,7 @@ FREE DATASET BUILDING YOUR PORTFOLIO ⭐️
 10. Real / Fake Job Posting Prediction - https://lnkd.in/e5SDDW9G
 
 ----
-
+Data Engineering Road Map:https://www.youtube.com/watch?v=SpaFPPByOhM
 Data engineering: https://www.youtube.com/watch?v=0nZ7a06s3Mk
 
 ---
