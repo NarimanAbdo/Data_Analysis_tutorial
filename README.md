@@ -1,11 +1,14 @@
-  ** Data Analysis and BI Resources (ITI resources):  https://github.com/GeorgeHanyMilad/Data-Analysis-and-BI-Resources.
-  ** AI/ML Driven Companies In Egypt: https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt.
-  ** Data Analyst Portfolio Projects: https://www.youtube.com/playlist?list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f
-  
   ----
 Data warehouse:
-    1. https://www.youtube.com/playlist?list=PLrbIyvYCdg0iAUQoxG5vI_yKqzZ2AcgGe
-    2. Data engineering: https://www.youtube.com/watch?v=0nZ7a06s3Mk
+1.Book: https://www.pdfdrive.com/the-data-warehouse-toolkit-the-definitive-guide-to-dimensional-modeling-e157742453.html
+2. Youtube: https://www.youtube.com/playlist?list=PLrbIyvYCdg0iAUQoxG5vI_yKqzZ2AcgGe
+3. https://www.youtube.com/@ahmedelsayed8467
+4. https://www.youtube.com/watch?v=Yv1Ic0rPXN0
+5. Data Warehouse Complete Tutorial - SQL + SSIS + SSAS + Power BI: https://www.youtube.com/watch?v=eNxbMwUGl1g
+
+---
+
+Data engineering: https://www.youtube.com/watch?v=0nZ7a06s3Mk
 
 --
 📝 Top SQL Learning Platforms for Problem-solving:-
