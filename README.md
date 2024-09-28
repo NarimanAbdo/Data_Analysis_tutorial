@@ -60,12 +60,12 @@ FREE DATASET BUILDING YOUR PORTFOLIO ⭐️
 1. Supermarket Sales - https://lnkd.in/e86UpCMv 
 2. Credit Card Fraud Detection - https://lnkd.in/eFTsZDCW 
 3. FIFA 22 complete player dataset - https://lnkd.in/eDScdUUM 
-4. Walmart Store Sales Forecasting - https://lnkd.in/eVT6h-CT 
-5. Netflix Movies and TV Shows - https://lnkd.in/eZ3cduwK 
-6.LinkedIn Data Analyst jobs listings -  https://lnkd.in/ezqxcmrE 
-7. Top 50 Fast-Food Chains in USA - https://lnkd.in/esBjf5u4 
-8. Amazon and Best Buy Electronics - https://lnkd.in/e4fBZvJ3 
-9. Forecasting Book Sales - https://lnkd.in/eXHN2XsQ 
+4. Walmart Store Sales Forecasting - https://lnkd.in/eVT6h-CT
+5. Netflix Movies and TV Shows - https://lnkd.in/eZ3cduwK
+6. LinkedIn Data Analyst jobs listings -  https://lnkd.in/ezqxcmrE
+7. Top 50 Fast-Food Chains in USA - https://lnkd.in/esBjf5u4
+8. Amazon and Best Buy Electronics - https://lnkd.in/e4fBZvJ3
+9. Forecasting Book Sales - https://lnkd.in/eXHN2XsQ
 10. Real / Fake Job Posting Prediction - https://lnkd.in/e5SDDW9G
 
 ----
