@@ -1,6 +1,6 @@
-.Data Analysis and BI Resources:  https://github.com/GeorgeHanyMilad/Data-Analysis-and-BI-Resources
-.AI/ML Driven Companies In Egypt: https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt
-.Data warehouse- Data engineering: https://www.youtube.com/watch?v=0nZ7a06s3Mk
+  *.Data Analysis and BI Resources:  https://github.com/GeorgeHanyMilad/Data-Analysis-and-BI-Resources.
+  *.AI/ML Driven Companies In Egypt: https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt.
+  *.Data warehouse- Data engineering: https://www.youtube.com/watch?v=0nZ7a06s3Mk
 
 📝 Top SQL Learning Platforms for Problem-solving:-
 1. [SQLZoo](https://sqlzoo.net/) – Interactive lessons for beginners.
