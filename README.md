@@ -1,15 +1,22 @@
+Math & Statics: https://www.3blue1brown.com/#lessons
+
   ----
 Data warehouse:
-  1.Book: https://www.pdfdrive.com/the-data-warehouse-toolkit-the-definitive-guide-to-dimensional-modeling-e157742453.html
-  2. Youtube: https://www.youtube.com/playlist?list=PLrbIyvYCdg0iAUQoxG5vI_yKqzZ2AcgGe
-  3. https://www.youtube.com/@ahmedelsayed8467
-  4. https://www.youtube.com/watch?v=Yv1Ic0rPXN0
-  5. Data Warehouse Complete Tutorial - SQL + SSIS + SSAS + Power BI: https://www.youtube.com/watch?v=eNxbMwUGl1g
+1.Book: https://www.pdfdrive.com/the-data-warehouse-toolkit-the-definitive-guide-to-dimensional-modeling-e157742453.html
+2. Youtube: https://www.youtube.com/playlist?list=PLrbIyvYCdg0iAUQoxG5vI_yKqzZ2AcgGe
+3. https://www.youtube.com/@ahmedelsayed8467
+4. https://www.youtube.com/watch?v=Yv1Ic0rPXN0
+5. Data Warehouse Complete Tutorial - SQL + SSIS + SSAS + Power BI: https://www.youtube.com/watch?v=eNxbMwUGl1g
 
 ---
+SQL -- YouTube channel to learning-- 
 
-Data engineering: https://www.youtube.com/watch?v=0nZ7a06s3Mk
-
+1. ITI Database (SQL Server) Arabic: https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t
+2. https://www.youtube.com/@techTFQ/courses
+3. https://youtube.com/@wiseowltutorials?si=ALioRxvwEoMP4lbK
+4. https://www.youtube.com/@AlexTheAnalyst/courses
+5. SQL Server Interview Questions and Answers: https://www.youtube.com/playlist?list=PL6n9fhu94yhXcztdLO7i6mdyaegC8CJwR
+   
 --
 📝 Top SQL Learning Platforms for Problem-solving:-
 
@@ -28,16 +35,10 @@ Data engineering: https://www.youtube.com/watch?v=0nZ7a06s3Mk
 13. [Interview Query](https://lnkd.in/gKH3xw_G) – SQL interview insights.
 14. [LearnMode](https://lnkd.in/gQYCkwS2) – Learn SQL at your own pace.
 
-SQL -- YouTube channel to learning-- 
-
-1. ITI Database (SQL Server) Arabic: https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t
-2. https://www.youtube.com/@techTFQ/courses
-3. https://youtube.com/@wiseowltutorials?si=ALioRxvwEoMP4lbK
-4. https://www.youtube.com/@AlexTheAnalyst/courses
-5. SQL Server Interview Questions and Answers: https://www.youtube.com/playlist?list=PL6n9fhu94yhXcztdLO7i6mdyaegC8CJwR
 
 -----------------
 Business Intelligence (BI) Career Roadmap: https://www.youtube.com/watch?v=v38syyZqzkw
+
 ---
 Power BI: 
 
@@ -67,6 +68,11 @@ FREE DATASET BUILDING YOUR PORTFOLIO ⭐️
 8. Amazon and Best Buy Electronics - https://lnkd.in/e4fBZvJ3 
 9. Forecasting Book Sales - https://lnkd.in/eXHN2XsQ 
 10. Real / Fake Job Posting Prediction - https://lnkd.in/e5SDDW9G
+
+----
+
+Data engineering: https://www.youtube.com/watch?v=0nZ7a06s3Mk
+
 ---
 Cloud computing: 
 1. AWS: https://www.youtube.com/watch?v=E3nLSHQtLes&list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf
