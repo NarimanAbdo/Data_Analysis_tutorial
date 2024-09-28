@@ -1,4 +1,6 @@
-Data Analysis and BI Resources:https://github.com/GeorgeHanyMilad/Data-Analysis-and-BI-Resources
+Data Analysis and BI Resources:  https://github.com/GeorgeHanyMilad/Data-Analysis-and-BI-Resources
+AI/ML Driven Companies In Egypt: https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt
+Data warehouse- Data engineering: https://www.youtube.com/watch?v=0nZ7a06s3Mk
 
 📝 Top SQL Learning Platforms for Problem-solving:-
 1. [SQLZoo](https://sqlzoo.net/) – Interactive lessons for beginners.
@@ -15,20 +17,25 @@ Data Analysis and BI Resources:https://github.com/GeorgeHanyMilad/Data-Analysis-
 12. [Dataford](https://www.dataford.io/) – Hands-on SQL for data analysis.
 13. [Interview Query](https://lnkd.in/gKH3xw_G) – SQL interview insights.
 14. [LearnMode](https://lnkd.in/gQYCkwS2) – Learn SQL at your own pace.
-
-
 SQL-- YouTube channel to learn
 1. https://www.youtube.com/@techTFQ/courses
 2. https://youtube.com/@wiseowltutorials?si=ALioRxvwEoMP4lbK
 3. https://www.youtube.com/@AlexTheAnalyst/courses
 -----------------
-Power BI
+Power BI: 
 1. https://youtube.com/@curbalen?si=j0LziawC2ZOqMd3k
 2. https://youtube.com/@learnwidgiggs?si=0mTEuywNezH8ycYN
+--
 Cloud computing: 
 AWS: https://www.youtube.com/watch?v=E3nLSHQtLes&list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf
 MS Azure: https://www.youtube.com/watch?v=C-KJRwRqXK8&list=PLCIJjtzQPZJ-CDaKOAlm3JfpL2kddIhRA
 Azure Cloud Computing: https://www.youtube.com/watch?v=DeDiDgAlOnU&list=PLCIJjtzQPZJ-lhz8fL-OAI7Gun4B37xcs
+--
+Databricks Quick Course 2024
+https://www.youtube.com/playlist?list=PLfDCRTtObbI6YE7hr1sk0rddzIkbSq7kL
+---
+DB-spark: https://www.youtube.com/@GarageEducation/playlists
+
 --------------------
 Big Data: 
 Hadoop & MapReduce	|	https://www.youtube.com/watch?v=3PAl0y067Ag&list=PLrooD4hY1QqAK5pbBpcthLuMa-cXnXJLE
