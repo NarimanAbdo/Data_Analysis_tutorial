@@ -97,5 +97,9 @@ Big Data:
 ----
 Git & GitHub: https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF
 
+---
+Data_Structures & Algorithms 
+https://www.linkedin.com/posts/mohammedhemed_dataabrstructures-algorithms-ai-activity-7245659499154264064-OcyV?utm_source=share&utm_medium=member_desktop
+
 
 
