@@ -39,10 +39,10 @@ Cloud computing:
 
 --------------------
 Big Data: 
-Hadoop & MapReduce	|	https://www.youtube.com/watch?v=3PAl0y067Ag&list=PLrooD4hY1QqAK5pbBpcthLuMa-cXnXJLE
-Big Data Engineering In Depth	|	https://www.youtube.com/watch?v=p_jl-gFinlA&list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF
-Hadoop & Distributed Systems	|	https://www.youtube.com/watch?v=Ot63tlh0PaE&list=PLxNoJq6k39G8Ak39PDC-oYvp6ZRvIn3Pa
-Big Data Full Course 2022	|	https://www.youtube.com/watch?v=KCEPoPJ8sWw
+1. Hadoop & MapReduce	|	https://www.youtube.com/watch?v=3PAl0y067Ag&list=PLrooD4hY1QqAK5pbBpcthLuMa-cXnXJLE
+2. Big Data Engineering In Depth	|	https://www.youtube.com/watch?v=p_jl-gFinlA&list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF
+3. Hadoop & Distributed Systems	|	https://www.youtube.com/watch?v=Ot63tlh0PaE&list=PLxNoJq6k39G8Ak39PDC-oYvp6ZRvIn3Pa
+4. Big Data Full Course 2022	|	https://www.youtube.com/watch?v=KCEPoPJ8sWw
 
 ----
 Git & GitHub: https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF
