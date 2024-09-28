@@ -41,11 +41,10 @@ Business Intelligence (BI) Career Roadmap: https://www.youtube.com/watch?v=v38sy
 
 ---
 Power BI: 
-
-  1.https://www.youtube.com/@GuyInACube/playlists
-  2. https://youtube.com/@curbalen?si=j0LziawC2ZOqMd3k
-  3. https://youtube.com/@learnwidgiggs?si=0mTEuywNezH8ycYN
-  4. Power BI Quick Tips: https://www.youtube.com/playlist?list=PLs93rgE5erT5Hu5XkzTk_ZEMdvB9yFaFH
+1. https://www.youtube.com/@GuyInACube/playlists
+2. https://youtube.com/@curbalen?si=j0LziawC2ZOqMd3k
+3. https://youtube.com/@learnwidgiggs?si=0mTEuywNezH8ycYN
+4. Power BI Quick Tips: https://www.youtube.com/playlist?list=PLs93rgE5erT5Hu5XkzTk_ZEMdvB9yFaFH
   
   ---
 DAX
