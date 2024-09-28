@@ -2,7 +2,7 @@ Math & Statics: https://www.3blue1brown.com/#lessons
 
   ----
 Data warehouse:
-1.Book: https://www.pdfdrive.com/the-data-warehouse-toolkit-the-definitive-guide-to-dimensional-modeling-e157742453.html
+1. Book: https://www.pdfdrive.com/the-data-warehouse-toolkit-the-definitive-guide-to-dimensional-modeling-e157742453.html
 2. Youtube: https://www.youtube.com/playlist?list=PLrbIyvYCdg0iAUQoxG5vI_yKqzZ2AcgGe
 3. https://www.youtube.com/@ahmedelsayed8467
 4. https://www.youtube.com/watch?v=Yv1Ic0rPXN0
