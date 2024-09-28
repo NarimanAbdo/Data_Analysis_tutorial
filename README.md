@@ -1,4 +1,7 @@
-**
+Data Analysis and BI Resources
+
+https://github.com/GeorgeHanyMilad/Data-Analysis-and-BI-Resources
+
 📝 Top SQL Learning Platforms for problem solving:-
 1. [SQLZoo](https://sqlzoo.net/) – Interactive lessons for beginners.
 2. [HackerRank](https://lnkd.in/gnFS4frz) – Challenge your SQL knowledge with real-world problems.
@@ -19,12 +22,14 @@ SQL-- YouTube channel to learn
 1. https://www.youtube.com/@techTFQ/courses
 2. https://youtube.com/@wiseowltutorials?si=ALioRxvwEoMP4lbK
 3. https://www.youtube.com/@AlexTheAnalyst/courses
-
+Power BI
+1. https://youtube.com/@curbalen?si=j0LziawC2ZOqMd3k
+2. https://youtube.com/@learnwidgiggs?si=0mTEuywNezH8ycYN
 
 Cloud Computing: 
-AWS		|	https://www.youtube.com/watch?v=E3nLSHQtLes&list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf
-MS Azure	|	https://www.youtube.com/watch?v=C-KJRwRqXK8&list=PLCIJjtzQPZJ-CDaKOAlm3JfpL2kddIhRA
-Azure Cloud Computing	|	https://www.youtube.com/watch?v=DeDiDgAlOnU&list=PLCIJjtzQPZJ-lhz8fL-OAI7Gun4B37xcs
+AWS: https://www.youtube.com/watch?v=E3nLSHQtLes&list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf
+MS Azure: https://www.youtube.com/watch?v=C-KJRwRqXK8&list=PLCIJjtzQPZJ-CDaKOAlm3JfpL2kddIhRA
+Azure Cloud Computing: https://www.youtube.com/watch?v=DeDiDgAlOnU&list=PLCIJjtzQPZJ-lhz8fL-OAI7Gun4B37xcs
 ======================================================================================================================
 Big Data: 
 Hadoop & MapReduce	|	https://www.youtube.com/watch?v=3PAl0y067Ag&list=PLrooD4hY1QqAK5pbBpcthLuMa-cXnXJLE
@@ -35,4 +40,4 @@ Big Data Full Course 2022	|	https://www.youtube.com/watch?v=KCEPoPJ8sWw
 Git & GitHub	|	https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF
 
 
-**
+
