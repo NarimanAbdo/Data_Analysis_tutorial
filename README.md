@@ -52,9 +52,9 @@ DAX
 1. https://www.daxformatter.com
 2. https://dax.guide/
 3. Youtube:
-   a. https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg
-   b. https://www.youtube.com/playlist?list=PLjNd3r1KLjQuVWrPuygE8QwEmCL6rrUrx
-   c. https://www.youtube.com/playlist?list=PLcwrIWK7WBcQmoBMuBRnRv1LaGUEdbYCT
+a.https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg
+b.https://www.youtube.com/playlist?list=PLjNd3r1KLjQuVWrPuygE8QwEmCL6rrUrx
+c.https://www.youtube.com/playlist?list=PLcwrIWK7WBcQmoBMuBRnRv1LaGUEdbYCT
      
  ---
 FREE DATASET BUILDING YOUR PORTFOLIO ⭐️
