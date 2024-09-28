@@ -1,10 +1,11 @@
-  .Data Analysis and BI Resources (ITI resources):  https://github.com/GeorgeHanyMilad/Data-Analysis-and-BI-Resources.
+  ** Data Analysis and BI Resources (ITI resources):  https://github.com/GeorgeHanyMilad/Data-Analysis-and-BI-Resources.
   
-  .AI/ML Driven Companies In Egypt: https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt.
-  
+  ** AI/ML Driven Companies In Egypt: https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt.
+  ## Data Analyst Portfolio Projects: https://www.youtube.com/playlist?list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f
   Data warehouse:
-  1.https://www.youtube.com/playlist?list=PLrbIyvYCdg0iAUQoxG5vI_yKqzZ2AcgGe
-  2. Data engineering: https://www.youtube.com/watch?v=0nZ7a06s3Mk
+  
+    1.https://www.youtube.com/playlist?list=PLrbIyvYCdg0iAUQoxG5vI_yKqzZ2AcgGe
+    2. Data engineering: https://www.youtube.com/watch?v=0nZ7a06s3Mk
 --
 📝 Top SQL Learning Platforms for Problem-solving:-
 1. [SQLZoo](https://sqlzoo.net/) – Interactive lessons for beginners.
@@ -22,25 +23,33 @@
 13. [Interview Query](https://lnkd.in/gKH3xw_G) – SQL interview insights.
 14. [LearnMode](https://lnkd.in/gQYCkwS2) – Learn SQL at your own pace.
 
-SQL-- YouTube channel to learn
+SQL -- YouTube channel to learning-- 
 
 1. ITI Database (SQL Server) Arabic: https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t
 2. https://www.youtube.com/@techTFQ/courses
 3. https://youtube.com/@wiseowltutorials?si=ALioRxvwEoMP4lbK
 4. https://www.youtube.com/@AlexTheAnalyst/courses
 5. SQL Server Interview Questions and Answers: https://www.youtube.com/playlist?list=PL6n9fhu94yhXcztdLO7i6mdyaegC8CJwR
-6. 
+
 -----------------
 Business Intelligence (BI) Career Roadmap: https://www.youtube.com/watch?v=v38syyZqzkw
---
+---
 Power BI: 
+
   1.https://www.youtube.com/@GuyInACube/playlists
   2. https://youtube.com/@curbalen?si=j0LziawC2ZOqMd3k
   3. https://youtube.com/@learnwidgiggs?si=0mTEuywNezH8ycYN
--- 
+  4. Power BI Quick Tips: https://www.youtube.com/playlist?list=PLs93rgE5erT5Hu5XkzTk_ZEMdvB9yFaFH
+  
+  ---
 DAX
 1. https://www.daxformatter.com
 2. https://dax.guide/
+3. Youtube:
+   a. https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg
+   b. https://www.youtube.com/playlist?list=PLjNd3r1KLjQuVWrPuygE8QwEmCL6rrUrx
+   c. https://www.youtube.com/playlist?list=PLcwrIWK7WBcQmoBMuBRnRv1LaGUEdbYCT
+     
  ---
 FREE DATASET BUILDING YOUR PORTFOLIO ⭐️
 1. Supermarket Sales - https://lnkd.in/e86UpCMv 
@@ -58,11 +67,9 @@ Cloud computing:
 1. AWS: https://www.youtube.com/watch?v=E3nLSHQtLes&list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf
 2. MS Azure: https://www.youtube.com/watch?v=C-KJRwRqXK8&list=PLCIJjtzQPZJ-CDaKOAlm3JfpL2kddIhRA
 3. Azure Cloud Computing: https://www.youtube.com/watch?v=DeDiDgAlOnU&list=PLCIJjtzQPZJ-lhz8fL-OAI7Gun4B37xcs
---
 4. Databricks Quick Course 2024: https://www.youtube.com/playlist?list=PLfDCRTtObbI6YE7hr1sk0rddzIkbSq7kL
----
 5. DB-spark: https://www.youtube.com/@GarageEducation/playlists
-
+   
 --------------------
 Big Data: 
 1. Hadoop & MapReduce	|	https://www.youtube.com/watch?v=3PAl0y067Ag&list=PLrooD4hY1QqAK5pbBpcthLuMa-cXnXJLE
