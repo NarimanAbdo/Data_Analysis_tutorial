@@ -50,7 +50,7 @@ Power BI:
 DAX
 1. https://www.daxformatter.com
 2. https://dax.guide/
-Youtube playlist to learn:
+3. YouTube playlist to learn:
   4. https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg
   5. https://www.youtube.com/playlist?list=PLjNd3r1KLjQuVWrPuygE8QwEmCL6rrUrx
   6. https://www.youtube.com/playlist?list=PLcwrIWK7WBcQmoBMuBRnRv1LaGUEdbYCT
