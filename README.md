@@ -1,5 +1,7 @@
 Math & Statics: https://www.3blue1brown.com/#lessons
 
+for projects: https://www.projectpro.io/tutorial
+
   ----
 Data warehouse:
 1. Book: https://www.pdfdrive.com/the-data-warehouse-toolkit-the-definitive-guide-to-dimensional-modeling-e157742453.html
