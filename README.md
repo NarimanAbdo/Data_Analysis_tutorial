@@ -1,8 +1,8 @@
 # Math & Statics
-(https://www.3blue1brown.com/#lessons)
+* https://www.3blue1brown.com/#lessons
 
 # projects to build your portfolio 
-[https://www.projectpro.io/tutorial]
+* https://www.projectpro.io/tutorial
 
   ----
 # Data warehouse:
@@ -12,57 +12,55 @@ https://github.com/mahmoudparsian/data-warehousing
 2. Youtube: https://www.youtube.com/playlist?list=PLrbIyvYCdg0iAUQoxG5vI_yKqzZ2AcgGe
 3. https://www.youtube.com/@ahmedelsayed8467
 4. https://www.youtube.com/watch?v=Yv1Ic0rPXN0
-5. 
+   
 
 ---
-SQL PDF: https://github.com/aelhelw/techvault/tree/main
-
---
-SQL -- YouTube channel to learning-- 
-
-1. ITI Database (SQL Server) Arabic: https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t
-2. https://www.youtube.com/@TechVault_/playlists
-3. https://www.youtube.com/@techTFQ/courses
-4. https://youtube.com/@wiseowltutorials?si=ALioRxvwEoMP4lbK
-5. https://www.youtube.com/@AlexTheAnalyst/courses
-6. SQL Server Interview Questions and Answers: https://www.youtube.com/playlist?list=PL6n9fhu94yhXcztdLO7i6mdyaegC8CJwR
-   
---
-📝 Top SQL Learning Platforms for Problem-solving:-
-
-1. [SQLZoo](https://sqlzoo.net/) – Interactive lessons for beginners.
-2. [HackerRank](https://lnkd.in/gnFS4frz) – Challenge your SQL knowledge with real-world problems.
-3. [LeetCode](https://lnkd.in/gkCpv7NA) – Solve SQL problems asked in top tech interviews.
-4. [Mode Analytics](https://lnkd.in/gRPrQrf5) – Practice SQL with live data sets.
-5. [SQL Bolt](https://sqlbolt.com/) – Step-by-step SQL tutorials.
-6. [GeeksforGeeks](https://lnkd.in/ggYbizNB) – In-depth SQL articles by Sandeep Jain.
-7. [LearnSQL](https://www.learnsql.com/) – Structured SQL learning paths.
-8. [NamasteSQL](https://lnkd.in/gRnWf2tQ) – SQL mastery by Ankit Bansal.
-9. [StrataScratch](https://lnkd.in/gYtZQY53) – Tackle real interview questions.
-10. [DataLemur](https://datalemur.com/) – Ace SQL & Data Interviews with Nick Singh.
-11. [sql-practice](https://lnkd.in/gc3mQNhn) – Practical SQL problems.
-12. [Dataford](https://www.dataford.io/) – Hands-on SQL for data analysis.
-13. [Interview Query](https://lnkd.in/gKH3xw_G) – SQL interview insights.
-14. [LearnMode](https://lnkd.in/gQYCkwS2) – Learn SQL at your own pace.
+# SQL
+ _ PDF: https://github.com/aelhelw/techvault/tree/main
+_YouTube channel to learning-- 
+  1.
+  2.  ITI Database (SQL Server) Arabic: https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t
+  3. https://www.youtube.com/@TechVault_/playlists
+  4. https://www.youtube.com/@techTFQ/courses
+  5. https://youtube.com/@wiseowltutorials?si=ALioRxvwEoMP4lbK
+  6. https://www.youtube.com/@AlexTheAnalyst/courses
+  7. SQL Server Interview Questions and Answers: https://www.youtube.com/playlist?list=PL6n9fhu94yhXcztdLO7i6mdyaegC8CJwR
+     
+_Top SQL Learning Platforms for Problem-solving:-
+  1. [SQLZoo](https://sqlzoo.net/) – Interactive lessons for beginners.
+  2. [HackerRank](https://lnkd.in/gnFS4frz) – Challenge your SQL knowledge with real-world problems.
+  3. [LeetCode](https://lnkd.in/gkCpv7NA) – Solve SQL problems asked in top tech interviews.
+  4. [Mode Analytics](https://lnkd.in/gRPrQrf5) – Practice SQL with live data sets.
+  5. [SQL Bolt](https://sqlbolt.com/) – Step-by-step SQL tutorials.
+  6. [GeeksforGeeks](https://lnkd.in/ggYbizNB) – In-depth SQL articles by Sandeep Jain.
+  7. [LearnSQL](https://www.learnsql.com/) – Structured SQL learning paths.
+  8. [NamasteSQL](https://lnkd.in/gRnWf2tQ) – SQL mastery by Ankit Bansal.
+  9. [StrataScratch](https://lnkd.in/gYtZQY53) – Tackle real interview questions.
+  10. [DataLemur](https://datalemur.com/) – Ace SQL & Data Interviews with Nick Singh.
+  11. [sql-practice](https://lnkd.in/gc3mQNhn) – Practical SQL problems.
+  12. [Dataford](https://www.dataford.io/) – Hands-on SQL for data analysis.
+  13. [Interview Query](https://lnkd.in/gKH3xw_G) – SQL interview insights.
+  14. [LearnMode](https://lnkd.in/gQYCkwS2) – Learn SQL at your own pace.
 
 
 -----------------
-Business Intelligence (BI) Career Roadmap: https://www.youtube.com/watch?v=v38syyZqzkw
-1. ITI M. Rami: https://www.youtube.com/playlist?list=PLSGEGD0dbMKpih5QzGQfwU86d8TB-O24a
-2. Data Warehouse Complete Tutorial - SQL + SSIS + SSAS + Power BI: https://www.youtube.com/watch?v=eNxbMwUGl1g
-3. Business Intelligence | SSIS | SSAS | Cubes | SSRS [Arabic] https://www.youtube.com/watch?v=372_pHR623s&t=1548s
-4. SSIS [Arabic] https://www.youtube.com/playlist?list=PLcAbhg_RWLaK-lCH5GxnaVfyeGjrm3QH8; https://www.youtube.com/playlist?list=PLzdFxbg1IOxMm84jftInXXDXwZKBZKS75
-8. SSIS https://www.youtube.com/playlist?list=PLNIs-AWhQzcmPg_uV2BZi_KRG4LKs6cRs
----
-Power BI: 
+# Business Intelligence (BI) Career 
+1. Roadmap: https://www.youtube.com/watch?v=v38syyZqzkw
+2.ITI M. Rami: https://www.youtube.com/playlist?list=PLSGEGD0dbMKpih5QzGQfwU86d8TB-O24a
+3. English: SQL + SSIS + SSAS + Power BI: https://www.youtube.com/watch?v=eNxbMwUGl1g
+4. Business Intelligence | SSIS | SSAS | Cubes | SSRS [Arabic]
+    + https://www.youtube.com/watch?v=372_pHR623s&t=1548s
+    + https://www.youtube.com/playlist?list=PLcAbhg_RWLaK-lCH5GxnaVfyeGjrm3QH8;
+    + https://www.youtube.com/playlist?list=PLzdFxbg1IOxMm84jftInXXDXwZKBZKS75
+8. SSIS [English]: https://www.youtube.com/playlist?list=PLNIs-AWhQzcmPg_uV2BZi_KRG4LKs6cRs
+
+# Power BI: 
 1. https://www.youtube.com/@GuyInACube/playlists
 2. https://youtube.com/@curbalen?si=j0LziawC2ZOqMd3k
 3. https://youtube.com/@learnwidgiggs?si=0mTEuywNezH8ycYN
 4. Power BI Quick Tips: https://www.youtube.com/playlist?list=PLs93rgE5erT5Hu5XkzTk_ZEMdvB9yFaFH
 5. https://www.youtube.com/@PowerBIPro/playlists
-  
-  ---
-DAX
+## DAX
 1. https://www.daxformatter.com
 2. https://dax.guide/
 3. YouTube playlist to learn:
