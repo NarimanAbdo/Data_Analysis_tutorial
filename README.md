@@ -1,5 +1,5 @@
 # Math & Statics
-[https://www.3blue1brown.com/#lessons]
+(https://www.3blue1brown.com/#lessons)
 
 # projects to build your portfolio 
 [https://www.projectpro.io/tutorial]
