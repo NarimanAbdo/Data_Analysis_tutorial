@@ -1,10 +1,11 @@
 # Math & Statics
-https://www.3blue1brown.com/#lessons
+[https://www.3blue1brown.com/#lessons]
 
-for projects: https://www.projectpro.io/tutorial
+# projects to build your portfolio 
+[https://www.projectpro.io/tutorial]
 
   ----
-Data warehouse:
+# Data warehouse:
 https://github.com/mahmoudparsian/data-warehousing
 
 1. Book: https://www.pdfdrive.com/the-data-warehouse-toolkit-the-definitive-guide-to-dimensional-modeling-e157742453.html
