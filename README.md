@@ -16,15 +16,14 @@ https://github.com/mahmoudparsian/data-warehousing
 
 ---
 # SQL
- _ PDF: https://github.com/aelhelw/techvault/tree/main
-_YouTube channel to learning-- 
-  1.
-  2.  ITI Database (SQL Server) Arabic: https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t
-  3. https://www.youtube.com/@TechVault_/playlists
-  4. https://www.youtube.com/@techTFQ/courses
-  5. https://youtube.com/@wiseowltutorials?si=ALioRxvwEoMP4lbK
-  6. https://www.youtube.com/@AlexTheAnalyst/courses
-  7. SQL Server Interview Questions and Answers: https://www.youtube.com/playlist?list=PL6n9fhu94yhXcztdLO7i6mdyaegC8CJwR
+ * PDF: https://github.com/aelhelw/techvault/tree/main
+* YouTube channel to learning: 
+  1. ITI Database (SQL Server) Arabic: https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t
+  2. https://www.youtube.com/@TechVault_/playlists
+  3. https://www.youtube.com/@techTFQ/courses
+  4. https://youtube.com/@wiseowltutorials?si=ALioRxvwEoMP4lbK
+  5. https://www.youtube.com/@AlexTheAnalyst/courses
+  6. SQL Server Interview Questions and Answers: https://www.youtube.com/playlist?list=PL6n9fhu94yhXcztdLO7i6mdyaegC8CJwR
      
 _Top SQL Learning Platforms for Problem-solving:-
   1. [SQLZoo](https://sqlzoo.net/) – Interactive lessons for beginners.
