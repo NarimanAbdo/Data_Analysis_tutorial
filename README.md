@@ -1,4 +1,4 @@
-#Math & Statics#
+# Math & Statics
 https://www.3blue1brown.com/#lessons
 
 for projects: https://www.projectpro.io/tutorial
