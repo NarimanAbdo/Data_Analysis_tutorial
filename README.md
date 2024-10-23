@@ -1,22 +1,15 @@
 # Math & Statics
 * https://www.3blue1brown.com/#lessons
-
-# projects to build your portfolio 
-* https://www.projectpro.io/tutorial
-
-  ----
+# Data_Structures & Algorithms 
+* https://www.linkedin.com/posts/mohammedhemed_dataabrstructures-algorithms-ai-activity-7245659499154264064-OcyV?utm_source=share&utm_medium=member_desktop
 # Data warehouse:
-https://github.com/mahmoudparsian/data-warehousing
-
+* https://github.com/mahmoudparsian/data-warehousing
 1. Book: https://www.pdfdrive.com/the-data-warehouse-toolkit-the-definitive-guide-to-dimensional-modeling-e157742453.html
 2. Youtube: https://www.youtube.com/playlist?list=PLrbIyvYCdg0iAUQoxG5vI_yKqzZ2AcgGe
 3. https://www.youtube.com/@ahmedelsayed8467
-4. https://www.youtube.com/watch?v=Yv1Ic0rPXN0
-   
-
----
+4. https://www.youtube.com/watch?v=Yv1Ic0rPXN0 
 # SQL
- * PDF: https://github.com/aelhelw/techvault/tree/main
+* PDF: https://github.com/aelhelw/techvault/tree/main
 * YouTube channel to learning: 
   1. ITI Database (SQL Server) Arabic: https://www.youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t
   2. https://www.youtube.com/@TechVault_/playlists
@@ -42,7 +35,6 @@ _Top SQL Learning Platforms for Problem-solving:-
   14. [LearnMode](https://lnkd.in/gQYCkwS2) – Learn SQL at your own pace.
 
 
------------------
 # Business Intelligence (BI) Career 
 1. Roadmap: https://www.youtube.com/watch?v=v38syyZqzkw
 2.ITI M. Rami: https://www.youtube.com/playlist?list=PLSGEGD0dbMKpih5QzGQfwU86d8TB-O24a
@@ -67,8 +59,9 @@ _Top SQL Learning Platforms for Problem-solving:-
   5. https://www.youtube.com/playlist?list=PLjNd3r1KLjQuVWrPuygE8QwEmCL6rrUrx
   6. https://www.youtube.com/playlist?list=PLcwrIWK7WBcQmoBMuBRnRv1LaGUEdbYCT
      
- ---
-FREE DATASET BUILDING YOUR PORTFOLIO ⭐️
+# projects to build your portfolio 
+* https://www.projectpro.io/tutorial
+## FREE DATASET BUILDING YOUR PORTFOLIO ⭐️
 1. Supermarket Sales - https://lnkd.in/e86UpCMv 
 2. Credit Card Fraud Detection - https://lnkd.in/eFTsZDCW 
 3. FIFA 22 complete player dataset - https://lnkd.in/eDScdUUM 
@@ -80,31 +73,24 @@ FREE DATASET BUILDING YOUR PORTFOLIO ⭐️
 9. Forecasting Book Sales - https://lnkd.in/eXHN2XsQ
 10. Real / Fake Job Posting Prediction - https://lnkd.in/e5SDDW9G
 
-----
-Data Engineering Road Map:https://www.youtube.com/watch?v=SpaFPPByOhM
-Data engineering: https://www.youtube.com/watch?v=0nZ7a06s3Mk
 
----
-Cloud computing: 
+# Cloud computing: 
 1. AWS: https://www.youtube.com/watch?v=E3nLSHQtLes&list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf
 2. MS Azure: https://www.youtube.com/watch?v=C-KJRwRqXK8&list=PLCIJjtzQPZJ-CDaKOAlm3JfpL2kddIhRA
 3. Azure Cloud Computing: https://www.youtube.com/watch?v=DeDiDgAlOnU&list=PLCIJjtzQPZJ-lhz8fL-OAI7Gun4B37xcs
 4. Databricks Quick Course 2024: https://www.youtube.com/playlist?list=PLfDCRTtObbI6YE7hr1sk0rddzIkbSq7kL
 5. DB-spark: https://www.youtube.com/@GarageEducation/playlists
    
---------------------
-Big Data: 
+# Big Data: 
 1. Hadoop & MapReduce	|	https://www.youtube.com/watch?v=3PAl0y067Ag&list=PLrooD4hY1QqAK5pbBpcthLuMa-cXnXJLE
 2. Big Data Engineering In Depth	|	https://www.youtube.com/watch?v=p_jl-gFinlA&list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF
 3. Hadoop & Distributed Systems	|	https://www.youtube.com/watch?v=Ot63tlh0PaE&list=PLxNoJq6k39G8Ak39PDC-oYvp6ZRvIn3Pa
 4. Big Data Full Course 2022	|	https://www.youtube.com/watch?v=KCEPoPJ8sWw
 
-----
-Git & GitHub: https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF
 
----
-Data_Structures & Algorithms 
-https://www.linkedin.com/posts/mohammedhemed_dataabrstructures-algorithms-ai-activity-7245659499154264064-OcyV?utm_source=share&utm_medium=member_desktop
+### Git & GitHub: https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF
 
 
+* Data Engineering Road Map:https://www.youtube.com/watch?v=SpaFPPByOhM
+* Data engineering: https://www.youtube.com/watch?v=0nZ7a06s3Mk
 
